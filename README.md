@@ -1,3 +1,3 @@
-# computational-number-theory
+# Computational Number Theory
 
 Coming soon.
